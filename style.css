@@ -5,9 +5,10 @@ body {
     background-color: #777;
     margin: 0;
     padding: 0;
-    line-height: 160%;
+    line-height: 160%
 
 }
+
 nav {
     width: 1024px;
     Margin-left: 3cm;
@@ -15,10 +16,11 @@ nav {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 25px;
-    text-align: center;
-    background-color: #ebebeb;
+    Text-align: center;
+    background-color: #889999;
 
 }
+
 .container {
     width: 1024px;
     margin-left: 3cm;
@@ -61,4 +63,9 @@ p1 {
     background-color: #ebebeb;
     width: 40%; 
 
+}
+#article {
+    background-color: #777
+    font-size: 20px;
+    padding: 3px;
 }
