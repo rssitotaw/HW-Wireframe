@@ -1,71 +1,12 @@
+Header {
+    background-color: #ebebeb;
+}
+
 body {
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: #777,
-    font-size: 18px;
-    background-color: #777;
-    margin: 0;
-    padding: 0;
-    line-height: 160%
-
-}
-
-nav {
-    width: 1024px;
-    Margin-left: 3cm;
-    margin-right:3cm;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-size: 25px;
-    Text-align: center;
-    background-color: #889999;
-
-}
-
-.container {
-    width: 1024px;
-    margin-left: 3cm;
-    margin-right: 3cm;
-}
-.whatthef {
-    width: 1024px;
-    margin-left: 3cm;
-    margin-right: 3cm;
-    padding: 20px
-    background-color: #ebebeb;
-}
-
-h1 {
-    color: #777;
-    background-color: #ebebeb;
-    margin-left: 3cm;
-    margin-right: 3cm;
-    padding 5;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-
-p1 {
-    color: #777;
-    background-color: #ebebeb; 
-}
-
-#h2,
-#h3,
-#p2,
- {
-    font-size: '30px'
-    width: 60%;
-}
-#aside {
-    background: '#ebebeb'
-    float: left;
-    display: block;
-    background-color: #ebebeb;
-    width: 40%; 
-
-}
-#article {
     background-color: #777
-    font-size: 20px;
-    padding: 3px;
 }
+section {
+    background-color: #ebebeb;
+
+}
+
